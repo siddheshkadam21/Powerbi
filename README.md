@@ -23,3 +23,8 @@ Q4 Design waterfall chart for doing profit analysis with profit ration % using s
 ![image](https://github.com/siddheshkadam21/Powerbi/assets/63228105/efe2abf9-d45b-4b14-9144-71e45d2808cf)
 ![image](https://github.com/siddheshkadam21/Powerbi/assets/63228105/5fb21921-87cc-4e4b-9d72-33af943ede2f)
 
+Q6 Analysis sales/ profit on city with scatter plot.
+Q7 Prepare geomaps with pie chart inside to show % of profit using segment wise for different region.
+![image](https://github.com/siddheshkadam21/Powerbi/assets/63228105/c2404c94-8673-40e0-a764-771b6d991a8d)
+
+
